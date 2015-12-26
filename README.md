@@ -2,10 +2,10 @@
 
 Dependencies
 ==============
-- (Compass)[http://compass-style.org/install/]
-- (Sass)[http://sass-lang.com/install]
-- (Bower)[http://bower.io/]
-- (Python2.x)[https://www.python.org/]
+- [Compass](http://compass-style.org/install/)
+- [Sass](http://sass-lang.com/install)
+- [Bower](http://bower.io/)
+- [Python2.x](https://www.python.org/)
 
 Running
 ==============

@@ -1,0 +1,81 @@
+@import '../bower_components/sass-bootstrap/lib/bootstrap';
+
+$font-family: 'Copperplate Gothic Light',Copperplate,fantasy,calibri,helvetica,sans-serif;
+html, body, form, fieldset, table, tr, td, img {
+    margin: 0;
+    padding: 0;
+    font: 100%/150% $font-family;
+}
+
+input, button, select, textarea, optgroup, option {
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+}
+
+body {
+    font-size: 0.875em;
+}
+
+$btn-primary-bg: #6D6E70;
+$hover-bg: #47C3D0;
+
+/*******************************************************************************
+General
+*******************************************************************************/
+h1 {
+  font-size: 2.5em;
+  font-family: $font-family;
+}
+
+.row-centered {
+    text-align:center;
+}
+
+.btn {border-radius: 0;}
+
+.btn:focus, .btn:active:focus, .btn.active:focus{
+    outline:none;
+    box-shadow:none;
+}
+
+.navbar-default .navbar-nav > .active,
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #000;
+  background: $hover-bg;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+/*******************************************************************************
+Home
+*******************************************************************************/
+.btn-list-home {
+  margin-left: 0px;
+}
+.btn-home {
+  //@include button-variant($btn-primary-color, $btn-primary-bg, $btn-primary-border);
+  @include button-variant(#FFFFFF, $btn-primary-bg, $btn-primary-bg);
+  border: none;
+  width: 105px !important;
+  &:hover {
+    background-color:$hover-bg
+  }
+}
+
+/*.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  color: #000000;
+  background-color: #6D6E70;
+  border-color: #285e8e;
+}*/

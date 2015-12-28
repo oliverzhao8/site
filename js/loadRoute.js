@@ -1,4 +1,5 @@
-/*globals loadHome, loadPortfolio*/
+/*globals loadHome, loadAbout, loadPortfolio*/
+'use strict';
 var loadRoute = function(route) {
   var loadContainerId = '#app';
   var fcFactory = function(html, controller) {
@@ -9,7 +10,7 @@ var loadRoute = function(route) {
   };
   var routeToFile = {
     '/': fcFactory('views/home.html', loadHome),
-    '/about': fcFactory('views/about.html', function(){}),
+    '/about': fcFactory('views/about.html', loadAbout),
     '/portfolio': fcFactory('views/portfolio.html', loadPortfolio),
     '/contact': fcFactory('views/contact.html', function(){})
   };

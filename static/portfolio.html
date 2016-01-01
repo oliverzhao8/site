@@ -1,0 +1,48 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <base href="/"/>
+
+    <title></title>
+    <link rel="icon" href="img/logo-small.png"/>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/reset.css">
+    <!-- main css -->
+    <link rel="stylesheet" href="css/main.css">
+    <!-- end main css -->
+</head>
+<body>
+
+<div id="app"></div>
+
+<!--
+order in which files must be loaded:
+jQuery
+data files
+controller files (files in js/ directory)
+loadRoute.js
+bootstrap.min.js
+-->
+<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="data/about.json"></script>
+<script type="text/javascript" src="data/portfolio.json"></script>
+<script type="text/javascript" src="js/home.js"></script>
+<script type="text/javascript" src="js/about.js"></script>
+<script type="text/javascript" src="js/portfolio.js"></script>
+<script type="text/javascript" src="js/loadRoute.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<!-- boot -->
+<script type="text/javascript">
+    $(function() { loadRoute('/portfolio'); });
+</script>
+
+</body>
+
+</html>

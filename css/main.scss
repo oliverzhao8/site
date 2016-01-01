@@ -1,6 +1,8 @@
 @import '../bower_components/sass-bootstrap/lib/bootstrap';
 
-$font-family: 'Copperplate Gothic Light',Copperplate,fantasy,calibri,helvetica,sans-serif;
+// $font-family: 'Copperplate Gothic Light',Copperplate,fantasy,calibri,helvetica,sans-serif;
+// $font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+$font-family: avenir, 'avenir next', helvetica, arial, sans-serif;
 html, body, form, fieldset, table, tr, td, img {
     margin: 0;
     padding: 0;
@@ -56,9 +58,9 @@ h1 {
   margin-bottom: 10px;
 }
 
-.container {
-  margin-top: 60px; //because of fixed top nav bar
-}
+// .container {
+//   margin-top: 60px; //because of fixed top nav bar
+// }
 /*******************************************************************************
 Home
 *******************************************************************************/
@@ -71,8 +73,19 @@ Home
   border: none;
   width: 105px !important;
   &:hover {
-    background-color:$hover-bg
+    background-color:$hover-bg;
   }
+}
+
+.hover-bg {
+  background-color: $hover-bg;
+}
+
+.portfolio-item {
+  cursor: pointer;
+}
+.portfolio-item :hover {
+  background-color: $hover-bg;
 }
 
 /*.btn-primary:hover,

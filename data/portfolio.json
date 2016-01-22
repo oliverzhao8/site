@@ -1,81 +1,125 @@
 portfolioData = [{
-  "name": "hello world 0",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "name": "The Philtrum",
+  "description": "2015 \nOil on canvas \n60'' x 100''",
+  "imgs": [
+    "img/portfolio/fall2015/negativespace/negativespace-preview.jpg",
+    "img/portfolio/fall2015/negativespace/negativespace.jpg"
+  ]
 }, {
-  "name": "hello world 1",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "name": "Cupped Fish",
+  "description": "2015 \nRed Solo Cups and steel wire \nAbout 3' long",
+  "imgs": [
+    "img/portfolio/fall2015/fish/fish-preview.jpg",
+    "img/portfolio/fall2015/fish/fish3.jpg",
+    "img/portfolio/fall2015/fish/fish4.jpg"
+  ]
 }, {
-  "name": "hello world 2",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "name": "Basic Process",
+  "description": "2015 \nDr. Pepper, charcoal powder, and ink on fabric \n",
+  "imgs": [
+    "img/portfolio/fall2015/process/process-preview.jpg",
+    "img/portfolio/fall2015/process/process.jpg"
+  ]
 }, {
-  "name": "hello world 3",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "name": "Pattern",
+  "description": "2015 \nGouache on paper \n14'' x 14'' ",
+  "imgs": [
+    "img/portfolio/fall2015/pattern/pattern-preview.jpg",
+    "img/portfolio/fall2015/pattern/pattern.jpg"
+  ]
 }, {
-  "name": "hello world 4",
+  "name": "Sketch of a Shoe",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/fall2015/shoe/shoe-preview1.jpg",
+    "img/portfolio/fall2015/shoe/shoe4.jpg",
+    "img/portfolio/fall2015/shoe/shoe5.jpg",
+    "img/portfolio/fall2015/shoe/shoe6.jpg"
+  ]
 }, {
-  "name": "hello world 5",
+  "name": "Deep Hole",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/fall2015/deepspace/deepspace-preview.jpg",
+    "img/portfolio/fall2015/deepspace/deepspace1.jpg"
+  ]
 }, {
-  "name": "hello world 6",
+  "name": "Skeletons",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/fall2015/skeleton/skeleton-preview.jpg",
+    "img/portfolio/fall2015/skeleton/skeleton.jpg"
+  ]
 }, {
-  "name": "hello world 7",
+  "name": "Censored Horror",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/fall2015/pixel/pixel-preview.jpg",
+    "img/portfolio/fall2015/pixel/pixel.jpg"
+  ]
 }, {
-  "name": "hello world 8",
+  "name": "Dream",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/selfportrait/selfportrait-preview.jpg",
+    "img/portfolio/highschool/selfportrait/selfportrait.jpg"
+  ]
 }, {
-  "name": "hello world 9",
+  "name": "Cut Milk",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/milk/milk-preview.jpg",
+    "img/portfolio/highschool/milk/milk.jpg"
+  ]
 }, {
-  "name": "hello world 10",
+  "name": "Sandwich",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/sandwich/sandwich-preview.jpg",
+    "img/portfolio/highschool/sandwich/sandwich.jpg"
+  ]
 }, {
-  "name": "hello world 11",
+  "name": "Golden Horse",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/horse/horse-preview.jpg",
+    "img/portfolio/highschool/horse/horse.jpg"
+  ]
 }, {
-  "name": "hello world 12",
+  "name": "Happy Hour",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/bottles/bottles-preview.jpg",
+    "img/portfolio/highschool/bottles/bottles.jpg"
+  ]
 }, {
-  "name": "hello world 13",
+  "name": "Spine",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/spine/spine-preview.jpg",
+    "img/portfolio/highschool/spine/spine.jpg"
+  ]
 }, {
-  "name": "hello world 14",
+  "name": "Peppers",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/peppers/peppers-preview.jpg",
+    "img/portfolio/highschool/peppers/peppers.jpg"
+  ]
 }, {
-  "name": "hello world 15",
+  "name": "Rose",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/rose/rose-preview.jpg",
+    "img/portfolio/highschool/rose/rose1.jpg",
+    "img/portfolio/highschool/rose/rose2.jpg"
+  ]
 }, {
-  "name": "hello world 16",
+  "name": "Venus",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
-}, {
-  "name": "hello world 17",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
-}, {
-  "name": "hello world 18",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
-}, {
-  "name": "hello world 19",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.,",
-  "img": "http://placehold.it/700x400"
+  "imgs": [
+    "img/portfolio/highschool/venus/venus-preview.jpg",
+    "img/portfolio/highschool/venus/venus.jpg"
+  ]
 }]
+

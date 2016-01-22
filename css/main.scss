@@ -84,9 +84,53 @@ Home
 .portfolio-item {
   cursor: pointer;
 }
+
 .portfolio-item :hover {
   background-color: $hover-bg;
 }
+
+//for modal to not shift right stuff
+.modal {
+ overflow-y: auto;
+}
+
+.modal-open {
+ overflow: auto;
+}
+
+.modal-img {
+  margin-top: 10px;
+  width: 100%;
+}
+
+//makes modal borders sharp
+.modal-content {
+  border-radius: 0px;
+}
+
+.modal-footer {
+  border-top: 0px;
+}
+
+.modal-dialog {
+  width: 60%;
+}
+
+//changes modal title size
+#portfolio-modal-title {
+  font-size: 2em;
+}
+
+//removes bottom margin of modal header
+.modal-header {
+  border-bottom: 0px;
+  min-height: 2px;
+}
+
+.modal-body {
+  padding: 15px;
+}
+
 
 /*.btn-primary:hover,
 .btn-primary:focus,

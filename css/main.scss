@@ -2,20 +2,20 @@
 
 $font-family: avenir, 'avenir next', helvetica, arial, sans-serif;
 html, body, form, fieldset, table, tr, td, img {
-    margin: 0;
-    padding: 0;
-    font: 100%/150% $font-family;
+  margin: 0;
+  padding: 0;
+  font: 100%/150% $font-family;
 }
 
 input, button, select, textarea, optgroup, option {
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    font-weight: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
 }
 
 body {
-    font-size: 0.875em;
+  font-size: 0.875em;
 }
 
 $btn-primary-bg: #6D6E70;
@@ -30,7 +30,7 @@ h1 {
 }
 
 .row-centered {
-    text-align:center;
+  text-align:center;
 }
 
 .btn {border-radius: 0;}
@@ -56,9 +56,10 @@ h1 {
   margin-bottom: 10px;
 }
 
-// .container {
-//   margin-top: 60px; //because of fixed top nav bar
-// }
+.hover-bg {
+  background-color: $hover-bg;
+}
+
 /*******************************************************************************
 Home
 *******************************************************************************/
@@ -75,10 +76,16 @@ Home
   }
 }
 
-.hover-bg {
-  background-color: $hover-bg;
+$home-v-offset: 40%;
+.home-div {
+  position: relative;
+  top: $home-v-offset;
+  transform: translateY($home-v-offset);
 }
 
+/*******************************************************************************
+Portfolio
+*******************************************************************************/
 .portfolio-item {
   cursor: pointer;
 }
@@ -91,7 +98,9 @@ Home
   width:100%;
 }
 
-// changes to modal
+/*******************************************************************************
+Bootstrap modal changes
+*******************************************************************************/
 .modal-header {
   border-bottom: 0px;
 }
@@ -110,7 +119,26 @@ Home
   width: 70%;
 }
 
-//makes youtube video scalable
+/*******************************************************************************
+CSS to prevent bootstrap 3 modal from shifting content on open
+*******************************************************************************/
+html {
+  overflow: hidden;
+  height: 100%;
+}
+body {
+  overflow: auto;
+  height: 100%;
+}
+
+/* unset bs3 setting */
+.modal-open {
+ overflow: auto; 
+}
+
+/*******************************************************************************
+makes youtube video scalable
+*******************************************************************************/
 .video-container {
   position:relative;
   padding-bottom:56.25%;

@@ -76,7 +76,7 @@ Home
   }
 }
 
-$home-v-offset: 40%;
+$home-v-offset: 25%;
 .home-div {
   position: relative;
   top: $home-v-offset;
@@ -153,4 +153,16 @@ makes youtube video scalable
   left:0;
   width:100%;
   height:100%;
+}
+
+/*******************************************************************************
+about
+*******************************************************************************/
+.about-description {
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.portrait-img-div {
+  margin-bottom: 15px;
 }

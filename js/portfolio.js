@@ -68,7 +68,4 @@ return `<div class="col-md-4 portfolio-item" id="` + index +  `">
     $('#modal-body-imgs').empty();
     $('#modal-youtube-video').empty();
   });
-
-  //shifts header 17px left to make up for modal replacing scrollbar
-
 };

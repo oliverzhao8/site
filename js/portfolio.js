@@ -52,8 +52,10 @@ return `<div class="col-md-4 portfolio-item" id="` + index +  `">
   $('.portfolio-item').click(function() {
     $('#portfolio-modal').modal('show');
     var id = $(this).attr('id');
-    // console.log(portfolioData[id]);
     var data = portfolioData[id];
+    if (data.hasOwnProperty('youtubeVideo')) {
+      $('#modal-youtube-video').append('<div class="video-container row-centered"><iframe src="https://www.youtube.com/embed/eotoTmIdU_I" frameborder="0" allowfullscreen></iframe></div>');
+    }
     $('#portfolio-modal-title').text(data.name);
     $('#modal-body-text').multiline(data.description);
     for (var i = 1; i < data.imgs.length; ++i) {
@@ -61,10 +63,12 @@ return `<div class="col-md-4 portfolio-item" id="` + index +  `">
     }
   });
 
-
-  //empties modal-imgs when closed
+  //empties modal-imgs and youtube video when closed
   $('#portfolio-modal').on('hidden.bs.modal', function () {
     $('#modal-body-imgs').empty();
+    $('#modal-youtube-video').empty();
   });
+
+  //shifts header 17px left to make up for modal replacing scrollbar
 
 };

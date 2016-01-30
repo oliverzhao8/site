@@ -54,12 +54,12 @@ return `<div class="col-md-4 portfolio-item" id="` + index +  `">
     var id = $(this).attr('id');
     var data = portfolioData[id];
     if (data.hasOwnProperty('youtubeVideo')) {
-      $('#modal-youtube-video').append('<div class="video-container row-centered"><iframe src="https://www.youtube.com/embed/eotoTmIdU_I" frameborder="0" allowfullscreen></iframe></div>');
+      $('#modal-youtube-video').append('<div class="video-container row-centered"><iframe src="' + data.youtubeVideo + '" frameborder="0" allowfullscreen></iframe></div>');
     }
     $('#portfolio-modal-title').text(data.name);
     $('#modal-body-text').multiline(data.description);
     for (var i = 1; i < data.imgs.length; ++i) {
-      $('#modal-body-imgs').append('<div class="row-centered"><img class="modal-img" src="' + data.imgs[i] + '"></img></div>');
+      $('#modal-body-imgs').append('<div class="row-centered"><img class="modal-img" src="' + data.imgs[i] +'"></img></div>');
     }
   });
 

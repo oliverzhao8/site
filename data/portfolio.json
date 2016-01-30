@@ -1,4 +1,19 @@
 portfolioData = [{
+  "name": "A Toasty Character",
+  "description": "RISD Winter 2015 \nIllustator, Photoshop, After Effects \n One project of my intro to computer animation class was to create a character rig and animate it. I created a sentient piece of buttered toast with a face, various replacement parts (different forms for the eyes and mouth) , arms, and legs using Adobe Illustrator. Then I used After Effects to connect all the parts of character and allowed it to have smooth animation in 24 fps. I made a short gif  that shows the toast dancing by importing an image sequence in Photoshop. Below is the original rig layout in Illustrator. The red points represent pivot points.",
+  "imgs": [
+    "img/portfolio/winter2015/dancingtoast/dancingtoast-preview.jpg",
+    "img/portfolio/winter2015/dancingtoast/dancingtoast-1.gif",
+    "img/portfolio/winter2015/dancingtoast/dancingtoast-rig.jpg"
+  ]
+},{
+  "name": "The Stool That Rocks",
+  "description": "RISD Fall 2015 \n24'' x 24'' x 18 \n2 x 1 pine select \nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes on that habit. Hence I made a chair that rocks on two axes. Through the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
+  "imgs": [
+    "img/portfolio/fall2015/rockingstool/rockingstool-preview.jpg",
+    "img/portfolio/fall2015/rockingstool/rockingstool.jpg"
+  ]
+}, {
   "name": "Architectural Dystopia",
   "description": "RISD Fall 2015 \nGraphite on paper \n5' x 10' \nFor my drawing class’ final, I wanted to create an architectural space that gives viewers the sensation of entering the drawing. However, to expand beyond the average drawing of a space, I employed a panoramic perspective and included various architectural mistakes throughout the drawing.",
   "imgs": [
@@ -29,7 +44,7 @@ portfolioData = [{
   ],
   "youtubeVideo": "https://www.youtube.com/embed/eotoTmIdU_I"
 }, {
-  "name": "Pattern",
+  "name": "Tessellation",
   "description": "RISD Fall 2015 \nGouache on paper, Adobe Illustrator \n14'' x 14'' \nMy design class was first assigned to create pattern with gouache, then to create variations based off the original. I chose to use a tessellation that can have various color combinations.",
   "imgs": [
     "img/portfolio/fall2015/pattern/pattern-preview.jpg",

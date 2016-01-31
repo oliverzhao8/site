@@ -31,6 +31,16 @@ h1 {
   font-size: 2.5em;
   font-family: $font-family;
 }
+@media screen and (max-width:550px) {
+  h1 {
+    font-size: 1.5em;
+  }
+}
+@media screen and (max-width:350px) {
+  h1 {
+    font-size: 1.25em;
+  }
+}
 
 .row-centered {
   text-align:center;
@@ -66,14 +76,11 @@ h1 {
 /*******************************************************************************
 Home
 *******************************************************************************/
-.btn-list-home {
-  margin-left: 0px;
-}
 .btn-home {
   //@include button-variant($btn-primary-color, $btn-primary-bg, $btn-primary-border);
   @include button-variant(#FFFFFF, $btn-primary-bg, $btn-primary-bg);
   border: none;
-  width: 105px !important;
+  width: 100px !important;
   &:hover {
     background-color:$hover-bg;
   }
@@ -92,6 +99,7 @@ Portfolio
 .portfolio-item {
   cursor: pointer;
 }
+
 .portfolio-item :hover {
   background-color: $hover-bg;
 }

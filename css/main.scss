@@ -130,6 +130,11 @@ Bootstrap modal changes
 .modal-dialog {
   width: 70%;
 }
+@media screen and (max-width:550px) {
+  .modal-dialog {
+    width:90%;
+  }
+}
 
 /*******************************************************************************
 CSS to prevent bootstrap 3 modal from shifting content on open

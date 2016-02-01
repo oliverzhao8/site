@@ -85,6 +85,11 @@ Home
     background-color:$hover-bg;
   }
 }
+@media screen and (max-width:375px) {
+  .btn-home {
+    margin-bottom: 10px;
+  }
+}
 
 $home-v-offset: 25%;
 .home-div {

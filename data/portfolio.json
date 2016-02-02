@@ -1,6 +1,6 @@
 portfolioData = [{
   "name": "A Toasty Character",
-  "description": "RISD Winter 2015 \nIllustator, Photoshop, After Effects \n One project of my intro to computer animation class was to create a character rig and animate it. I created a sentient piece of buttered toast with a face, various replacement parts (different forms for the eyes and mouth) , arms, and legs using Adobe Illustrator. Then I used After Effects to connect all the parts of character and allowed it to have smooth animation in 24 fps. I made a short gif  that shows the toast dancing by importing an image sequence in Photoshop. Below is the original rig layout in Illustrator. The red points represent pivot points.",
+  "description": "RISD Winter 2015\nIllustator, Photoshop, After Effects\n\nOne project of my intro to computer animation class was to create a character rig and animate it. I created a sentient piece of buttered toast with a face, various replacement parts (different forms for the eyes and mouth), arms, and legs using Adobe Illustrator. Then I used After Effects to connect all the parts of character and allowed it to have smooth animation in 24 fps. I made a short gif  that shows the toast dancing by importing an image sequence in Photoshop. Below is the original rig layout in Illustrator. The red points represent pivot points.",
   "imgs": [
     "img/portfolio/winter2015/dancingtoast/dancingtoast-preview.jpg",
     "img/portfolio/winter2015/dancingtoast/dancingtoast-1.gif",
@@ -8,28 +8,28 @@ portfolioData = [{
   ]
 },{
   "name": "The Stool That Rocks",
-  "description": "RISD Fall 2015 \n24'' x 24'' x 18'' \n2 x 1 pine select \nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes on that habit. Hence I made a chair that rocks on two axes. Through the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
+  "description": "RISD Fall 2015\n24'' x 24'' x 18''\n2 x 1 pine select\nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes that habit. Hence, I made a chair that rocks on two axes. Throughout the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
   "imgs": [
     "img/portfolio/fall2015/rockingstool/rockingstool-preview.jpg",
     "img/portfolio/fall2015/rockingstool/rockingstool.jpg"
   ]
 }, {
   "name": "Architectural Dystopia",
-  "description": "RISD Fall 2015 \nGraphite on paper \n5' x 10' \nFor my drawing class’ final, I wanted to create an architectural space that gives viewers the sensation of entering the drawing. However, to expand beyond the average drawing of a space, I employed a panoramic perspective and included various architectural mistakes throughout the drawing.",
+  "description": "RISD Fall 2015\nGraphite on paper\n5' x 10'\nFor my drawing class’ final, I wanted to create an architectural space that gives viewers the sensation of entering the drawing. However, to expand beyond the average drawing of a space, I employed a panoramic perspective and included various architectural mistakes throughout the drawing.",
   "imgs": [
     "img/portfolio/fall2015/final/final-preview.jpg",
     "img/portfolio/fall2015/final/final.jpg"
   ]
 }, {
   "name": "The Philtrum",
-  "description": "RISD Fall 2015 \nOil on canvas \n60'' x 100'' \nThis drawing is based off negative space. I wanted to develop on the hackneyed idea of how things in daily life are often overlooked. Hence I chose to draw the philtrum (the obscure indent between the nose and lip) in a manner that makes it appear as an important symbol, although the reference to the philtrum is actually quite silly.",
+  "description": "RISD Fall 2015\nOil on canvas\n60'' x 100''\nThis drawing is based off negative space. I wanted to develop on the hackneyed idea of how things in daily life are often overlooked. I chose to draw the philtrum (the obscure indent between the nose and lip) in a manner that makes it appear as an important symbol, although the reference to the philtrum is actually quite silly.",
   "imgs": [
     "img/portfolio/fall2015/negativespace/negativespace-preview.jpg",
     "img/portfolio/fall2015/negativespace/negativespace.jpg"
   ]
 }, {
   "name": "Cupped Fish",
-  "description": "RISD Fall 2015 \nRed Solo Cups and steel wire \nAbout 3' long \nMy spatial dynamics class was assigned the “multiples project,” in which we had to choose a cheap store bought item and turn it into something recognizable. I chose to used red solo cups to create a fish.",
+  "description": "RISD Fall 2015\nRed Solo Cups and steel wire\nAbout 3' long\nMy spatial dynamics class was assigned the “multiples project,” in which we had to choose a cheap store bought item and turn it into something recognizable. I chose to used red solo cups to create a fish.",
   "imgs": [
     "img/portfolio/fall2015/fish/fish-preview.jpg",
     "img/portfolio/fall2015/fish/fish3.jpg",
@@ -37,7 +37,7 @@ portfolioData = [{
   ]
 }, {
   "name": "Basic Process",
-  "description": "RISD Fall 2015 \nVideo made with Premiere Pro \nDr. Pepper, charcoal powder, and ink on fabric \n74'' x 120'' \nMy drawing class was assigned to create a process piece. I found this to be the perfect opportunity to parody the Youtube entity, HowToBasic, and poke fun at the price of creating art. Hence I created the absurd video below and at some point used fake $100 bills.",
+  "description": "RISD Fall 2015\nVideo made with Premiere Pro\nDr. Pepper, charcoal powder, and ink on fabric\n74'' x 120''\nMy drawing class was assigned to create a process piece. I found this to be the perfect opportunity to parody the Youtube entity, HowToBasic, and poke fun at the price of creating art. Hence I created the absurd video below and at some point used fake $100 bills.",
   "imgs": [
     "img/portfolio/fall2015/process/process-preview.jpg",
     "img/portfolio/fall2015/process/process.jpg"
@@ -45,7 +45,7 @@ portfolioData = [{
   "youtubeVideo": "https://www.youtube.com/embed/eotoTmIdU_I"
 }, {
   "name": "Tessellation",
-  "description": "RISD Fall 2015 \nGouache on paper, Adobe Illustrator \n14'' x 14'' \nMy design class was first assigned to create pattern with gouache, then to create variations based off the original. I chose to use a tessellation that can have various color combinations.",
+  "description": "RISD Fall 2015\nGouache on paper, Adobe Illustrator\n14'' x 14''\nMy design class was first assigned to create pattern with gouache, then to create variations based off the original. I chose to use a tessellation that can have various color combinations.",
   "imgs": [
     "img/portfolio/fall2015/pattern/pattern-preview.jpg",
     "img/portfolio/fall2015/pattern/pattern1.jpg",
@@ -54,7 +54,7 @@ portfolioData = [{
   ]
 }, {
   "name": "Sketch of a Shoe",
-  "description": "RISD FAll 2015 \nSteel wire \n2.5' long and 1.5' tall",
+  "description": "RISD FAll 2015\nSteel wire\n2.5' long and 1.5' tall",
   "imgs": [
     "img/portfolio/fall2015/shoe/shoe-preview1.jpg",
     "img/portfolio/fall2015/shoe/shoe4.jpg",
@@ -63,77 +63,98 @@ portfolioData = [{
   ]
 }, {
   "name": "Telescope",
-  "description": "RISD Fall 2015 \nGouache on paper \n20''x10'' \nThis piece is my response to my design class’ assignment to use color to depict deep space.",
+  "description": "RISD Fall 2015\nGouache on paper\n20'' x 10''\nThis piece is my response to my design class’ assignment to use color to depict deep space.",
   "imgs": [
     "img/portfolio/fall2015/deepspace/deepspace-preview.jpg",
     "img/portfolio/fall2015/deepspace/deepspace1.jpg"
   ]
 }, {
   "name": "Skeletons",
-  "description": "RISD Fall 2015 \nConte on paper \n50''x34''",
+  "description": "RISD Fall 2015\nConte on paper\n50'' x 34''",
   "imgs": [
     "img/portfolio/fall2015/skeleton/skeleton-preview.jpg",
     "img/portfolio/fall2015/skeleton/skeleton.jpg"
   ]
 }, {
   "name": "Pixelated Spider",
-  "description": "RISD Fall 2015 \nCharcoal, conte, and graphite on paper \n44''x 32''",
+  "description": "RISD Fall 2015\nCharcoal, conte, and graphite on paper\n44'' x 32''",
   "imgs": [
     "img/portfolio/fall2015/pixel/pixel-preview.jpg",
     "img/portfolio/fall2015/pixel/pixel.jpg"
   ]
 }, {
   "name": "Dream",
-  "description": "2014 \nOil on canvas \n30'' x 30''",
+  "description": "2014\nOil on canvas\n30'' x 30''",
   "imgs": [
     "img/portfolio/highschool/selfportrait/selfportrait-preview.jpg",
     "img/portfolio/highschool/selfportrait/selfportrait.jpg"
   ]
 }, {
+  "name": "Jazz Concer - Poster",
+  "description": "2014\nIllustrator\n\nA Poster to represent one of highschool's jazz concerts.",
+  "imgs": [
+    "img/portfolio/highschool/jazzconcert/jazzconcert-preview.jpg",
+    "img/portfolio/highschool/jazzconcert/jazzconcert.jpg"
+  ]
+}, {
   "name": "Cut Milk",
-  "description": "2014 \nTempera and graphite on paper \n32'' x 40'' \nSubmission to RISD 2015 admissions test. One of the assignments was to depict time, motion, and/or space. In response, I captured a milk carton getting slice in half.",
+  "description": "2014\nTempera and graphite on paper\n32'' x 40''\nSubmission to RISD 2015 admissions test. One of the assignments was to depict time, motion, and/or space. In response, I captured a milk carton getting slice in half.",
   "imgs": [
     "img/portfolio/highschool/milk/milk-preview.jpg",
     "img/portfolio/highschool/milk/milk.jpg"
   ]
 }, {
+  "name": "In The Heights - Poster",
+  "description": "2014\nIllustrator\n\nOne of the posters picked to represent my highschool's performance of the Broadway musical, In The Heights.",
+  "imgs": [
+    "img/portfolio/highschool/intheheights/intheheights-preview.jpg",
+    "img/portfolio/highschool/intheheights/intheheights.jpg"
+  ]
+}, {
   "name": "Sandwich",
-  "description": "2014 \nOil and gold foil on canvas \n30'' x 30''",
+  "description": "2014\nOil and gold foil on canvas\n30'' x 30''",
   "imgs": [
     "img/portfolio/highschool/sandwich/sandwich-preview.jpg",
     "img/portfolio/highschool/sandwich/sandwich.jpg"
   ]
-}, {
+},  {
+  "name": "Education Reform - Poster",
+  "description": "2014\nIllustrator\n\nMy high school digital media class was assigned an exercise to make a poster about a social issue. I chose to create a poster advocating education reform.",
+  "imgs": [
+    "img/portfolio/highschool/edureform/edureform-preview.jpg",
+    "img/portfolio/highschool/edureform/edureform.jpg"
+  ]
+},{
   "name": "Golden Horse",
-  "description": "2013 \nAcrylic and gold foil on paper \n36'' x 24''",
+  "description": "2013\nAcrylic and gold foil on paper\n36'' x 24''",
   "imgs": [
     "img/portfolio/highschool/horse/horse-preview.jpg",
     "img/portfolio/highschool/horse/horse.jpg"
   ]
 }, {
   "name": "Happy Hour",
-  "description": "2012 \nOil on canvas \n30'' x 30 ''",
+  "description": "2012\nOil on canvas\n30'' x 30 ''",
   "imgs": [
     "img/portfolio/highschool/bottles/bottles-preview.jpg",
     "img/portfolio/highschool/bottles/bottles.jpg"
   ]
 }, {
   "name": "Spine",
-  "description": "2012 \nCharcoal on paper \n16'' x 20''",
+  "description": "2012\nCharcoal on paper\n16'' x 20''",
   "imgs": [
     "img/portfolio/highschool/spine/spine-preview.jpg",
     "img/portfolio/highschool/spine/spine.jpg"
   ]
 }, {
   "name": "Peppers",
-  "description": "2012 \nOil on canvas \n16'' X 20''",
+  "description": "2012\nOil on canvas\n16'' x 20''",
   "imgs": [
     "img/portfolio/highschool/peppers/peppers-preview.jpg",
     "img/portfolio/highschool/peppers/peppers.jpg"
   ]
 }, {
   "name": "Rose",
-  "description": "2011 \nTempera on paper \n18'' x 14''",
+  "description": "2011\nTempera on paper\n18'' x 14''",
   "imgs": [
     "img/portfolio/highschool/rose/rose-preview.jpg",
     "img/portfolio/highschool/rose/rose1.jpg",
@@ -141,7 +162,7 @@ portfolioData = [{
   ]
 }, {
   "name": "Venus",
-  "description": "2010 \nGraphite on paper \n16'' x 20''",
+  "description": "2010\nGraphite on paper\n16'' x 20''",
   "imgs": [
     "img/portfolio/highschool/venus/venus-preview.jpg",
     "img/portfolio/highschool/venus/venus.jpg"

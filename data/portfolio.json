@@ -1,4 +1,11 @@
 portfolioData = [{
+  "name": "You're Toast",
+  "description": "RISD Winter 2015\nIllustator, After Effects\n\nFor the final of my intro to computer animation, I wanted to develop my skills using After Effects. I ended up making a short animation that relies heavily on character rigs and is about the life of a piece of bread with a touch of dark humor. The video is about how the bread lives its life only to realize its meaningless.",
+  "imgs": [
+    "img/portfolio/winter2015/toastfinal/toastfinal.jpg"
+  ],
+  "youtubeVideo": "https://www.youtube.com/embed/WL5I7Pv3OwU"
+}, {
   "name": "A Toasty Character",
   "description": "RISD Winter 2015\nIllustator, Photoshop, After Effects\n\nOne project of my intro to computer animation class was to create a character rig and animate it. I created a sentient piece of buttered toast with a face, various replacement parts (different forms for the eyes and mouth), arms, and legs using Adobe Illustrator. Then I used After Effects to connect all the parts of character and allowed it to have smooth animation in 24 fps. I made a short gif  that shows the toast dancing by importing an image sequence in Photoshop. Below is the original rig layout in Illustrator. The red points represent pivot points.",
   "imgs": [
@@ -36,7 +43,7 @@ portfolioData = [{
     "img/portfolio/fall2015/fish/fish4.jpg"
   ]
 }, {
-  "name": "Basic Process",
+  "name": "How To Draw",
   "description": "RISD Fall 2015\nVideo made with Premiere Pro\nDr. Pepper, charcoal powder, and ink on fabric\n74'' x 120''\nMy drawing class was assigned to create a process piece. I found this to be the perfect opportunity to parody the Youtube entity, HowToBasic, and poke fun at the price of creating art. Hence I created the absurd video below and at some point used fake $100 bills.",
   "imgs": [
     "img/portfolio/fall2015/process/process-preview.jpg",

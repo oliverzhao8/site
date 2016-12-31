@@ -1,0 +1,17 @@
+ {
+  "name": "Tessellation",
+  "description": "RISD Fall 2015\nGouache on paper, Adobe Illustrator\n14'' x 14''\nMy design class was first assigned to create pattern with gouache, then to create variations based off the original. I chose to use a tessellation that can have various color combinations.",
+  "imgs": [
+    "img/portfolio/fall2015/pattern/pattern-preview.jpg",
+    "img/portfolio/fall2015/pattern/pattern1.jpg",
+    "img/portfolio/fall2015/pattern/pattern2.jpg",
+    "img/portfolio/fall2015/pattern/pattern3.jpg"
+  ]
+},  {
+  "name": "Telescope",
+  "description": "RISD Fall 2015\nGouache on paper\n20'' x 10''\nThis piece is my response to my design class’ assignment to use color to depict deep space.",
+  "imgs": [
+    "img/portfolio/fall2015/deepspace/deepspace-preview.jpg",
+    "img/portfolio/fall2015/deepspace/deepspace1.jpg"
+  ]
+},

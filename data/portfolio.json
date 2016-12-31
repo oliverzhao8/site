@@ -1,4 +1,97 @@
 portfolioData = [{
+  "name": "Pine Sculpture",
+  "description": "RISD Fall 2016\nPine\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/carving/carving-preview.jpg",
+    "img/portfolio/fall2016/carving/carving-1.jpg",
+    "img/portfolio/fall2016/carving/carving-2.jpg",
+    "img/portfolio/fall2016/carving/carving-3.jpg"
+  ]
+}, {
+  "name": "Aluminium Twist",
+  "description": "RISD Fall 2016\n14 Gauge Aluminium Sheet Metal, Bungee Cord\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/aluminium/aluminium-preview.jpg",
+    "img/portfolio/fall2016/aluminium/aluminium-1.jpg",
+    "img/portfolio/fall2016/aluminium/aluminium-2.jpg",
+    "img/portfolio/fall2016/aluminium/aluminium-3.jpg"
+  ]
+},  {
+  "name": "Maple Hammer",
+  "description": "RISD Fall 2016\nMaple\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/turning/turning-preview.jpg",
+    "img/portfolio/fall2016/turning/turning-1.jpg",
+    "img/portfolio/fall2016/turning/turning-2.jpg"
+  ]
+}, {
+  "name": "Exploded View",
+  "description": "RISD Fall 2016\nIllustator\n\nAn exploded view of an UL fire alarm.",
+  "imgs": [
+    "img/portfolio/fall2016/explodedview/exploded-preview.jpg",
+    "img/portfolio/fall2016/explodedview/exploded-drawing.jpg",
+    "img/portfolio/fall2016/explodedview/exploded-model.jpg"
+  ]
+}, {
+  "name": "The Walnut Disc",
+  "description": "RISD Fall 2016\nWalnut\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/disc/disc-preview.jpg",
+    "img/portfolio/fall2016/disc/disc-1.jpg",
+    "img/portfolio/fall2016/disc/disc-2.jpg"
+  ]
+}, {
+  "name": "The Clean Toothbrush",
+  "description": "RISD Fall 2016\nAdobe Illustrator, Rhino, Foam\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/toothbrush/toothbrush-preview.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-function.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-assembly.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-brand.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-1.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-2.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-ideation.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-rhino-1.jpg",
+    "img/portfolio/fall2016/toothbrush/toothbrush-rhino-2.jpg"
+  ]
+}, {
+  "name": "Tin Star",
+  "description": "RISD Fall 2016\nTin Sheet Metal\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/tinstar/tinstar-preview.jpg",
+    "img/portfolio/fall2016/tinstar/tinstar-1.jpg",
+    "img/portfolio/fall2016/tinstar/tinstar-2.jpg"
+  ]
+}, {
+  "name": "Self Charicature",
+  "description": "RISD Fall 2016\nPhotoshop, Illustrator\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/selfcharicature/selfcharicature-preview.jpg",
+    "img/portfolio/fall2016/selfcharicature/selfcharicature.jpg"
+  ]
+}, {
+  "name": "Form Exploration",
+  "description": "RISD Fall 2016\n2' tall paper\nSharpie and color pencil\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/roll/roll-preview.jpg",
+    "img/portfolio/fall2016/roll/roll-1.jpg",
+    "img/portfolio/fall2016/roll/roll-2.jpg",
+    "img/portfolio/fall2016/roll/roll-3.jpg",
+    "img/portfolio/fall2016/roll/roll-4.jpg",
+    "img/portfolio/fall2016/roll/roll-5.jpg",
+    "img/portfolio/fall2016/roll/roll-6.jpg",
+    "img/portfolio/fall2016/roll/roll-7.jpg",
+    "img/portfolio/fall2016/roll/roll-8.jpg",
+    "img/portfolio/fall2016/roll/roll-9.jpg",
+    "img/portfolio/fall2016/roll/roll-10.jpg",
+    "img/portfolio/fall2016/roll/roll-11.jpg",
+    "img/portfolio/fall2016/roll/roll-12.jpg",
+    "img/portfolio/fall2016/roll/roll-13.jpg",
+    "img/portfolio/fall2016/roll/roll-14.jpg",
+    "img/portfolio/fall2016/roll/roll-15.jpg",
+    "img/portfolio/fall2016/roll/roll-16.jpg",
+  ]
+}, {
   "name": "You're Toast",
   "description": "RISD Winter 2015\nIllustator, After Effects\n\nFor the final of my intro to computer animation, I wanted to develop my skills using After Effects. I ended up making a short animation that relies heavily on character rigs and is about the life of a piece of bread with a touch of dark humor. The video is about how the bread lives its life only to realize its meaningless.",
   "imgs": [
@@ -13,19 +106,12 @@ portfolioData = [{
     "img/portfolio/winter2015/dancingtoast/dancingtoast-1.gif",
     "img/portfolio/winter2015/dancingtoast/dancingtoast-rig.jpg"
   ]
-},{
+}, {
   "name": "The Stool That Rocks",
   "description": "RISD Fall 2015\n24'' x 24'' x 18''\n2 x 1 pine select\nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes that habit. Hence, I made a chair that rocks on two axes. Throughout the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
   "imgs": [
     "img/portfolio/fall2015/rockingstool/rockingstool-preview.jpg",
     "img/portfolio/fall2015/rockingstool/rockingstool.jpg"
-  ]
-}, {
-  "name": "Architectural Dystopia",
-  "description": "RISD Fall 2015\nGraphite on paper\n5' x 10'\nFor my drawing class’ final, I wanted to create an architectural space that gives viewers the sensation of entering the drawing. However, to expand beyond the average drawing of a space, I employed a panoramic perspective and included various architectural mistakes throughout the drawing.",
-  "imgs": [
-    "img/portfolio/fall2015/final/final-preview.jpg",
-    "img/portfolio/fall2015/final/final.jpg"
   ]
 }, {
   "name": "The Philtrum",
@@ -51,15 +137,6 @@ portfolioData = [{
   ],
   "youtubeVideo": "https://www.youtube.com/embed/eotoTmIdU_I"
 }, {
-  "name": "Tessellation",
-  "description": "RISD Fall 2015\nGouache on paper, Adobe Illustrator\n14'' x 14''\nMy design class was first assigned to create pattern with gouache, then to create variations based off the original. I chose to use a tessellation that can have various color combinations.",
-  "imgs": [
-    "img/portfolio/fall2015/pattern/pattern-preview.jpg",
-    "img/portfolio/fall2015/pattern/pattern1.jpg",
-    "img/portfolio/fall2015/pattern/pattern2.jpg",
-    "img/portfolio/fall2015/pattern/pattern3.jpg"
-  ]
-}, {
   "name": "Sketch of a Shoe",
   "description": "RISD FAll 2015\nSteel wire\n2.5' long and 1.5' tall",
   "imgs": [
@@ -67,13 +144,6 @@ portfolioData = [{
     "img/portfolio/fall2015/shoe/shoe4.jpg",
     "img/portfolio/fall2015/shoe/shoe5.jpg",
     "img/portfolio/fall2015/shoe/shoe6.jpg"
-  ]
-}, {
-  "name": "Telescope",
-  "description": "RISD Fall 2015\nGouache on paper\n20'' x 10''\nThis piece is my response to my design class’ assignment to use color to depict deep space.",
-  "imgs": [
-    "img/portfolio/fall2015/deepspace/deepspace-preview.jpg",
-    "img/portfolio/fall2015/deepspace/deepspace1.jpg"
   ]
 }, {
   "name": "Skeletons",
@@ -97,7 +167,7 @@ portfolioData = [{
     "img/portfolio/highschool/selfportrait/selfportrait.jpg"
   ]
 }, {
-  "name": "Jazz Concer - Poster",
+  "name": "Jazz Concert - Poster",
   "description": "2014\nIllustrator\n\nA Poster to represent one of highschool's jazz concerts.",
   "imgs": [
     "img/portfolio/highschool/jazzconcert/jazzconcert-preview.jpg",

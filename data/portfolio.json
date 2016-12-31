@@ -37,8 +37,8 @@ portfolioData = [{
   "description": "RISD Fall 2016\nWalnut\n\n",
   "imgs": [
     "img/portfolio/fall2016/disc/disc-preview.jpg",
-    "img/portfolio/fall2016/disc/disc-1.jpg",
-    "img/portfolio/fall2016/disc/disc-2.jpg"
+    "img/portfolio/fall2016/disc/disc-2.jpg",
+    "img/portfolio/fall2016/disc/disc-3.jpg"
   ]
 }, {
   "name": "The Clean Toothbrush",

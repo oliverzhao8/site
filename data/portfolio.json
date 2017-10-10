@@ -1,48 +1,92 @@
 portfolioData = [{
-  "name": "Pine Sculpture",
-  "description": "RISD Fall 2016\nPine\n\n",
+  "name": "White House Breifing Package",
+  "description": "Summer 2017\nMaya, After Effects\nThe final project I was assigned for my summer internship was to create a show package for the network's coverage on White House press briefings. I created a three second transition animation along with a ten second looping background image.",
   "imgs": [
-    "img/portfolio/fall2016/carving/carving-preview.jpg",
-    "img/portfolio/fall2016/carving/carving-3.jpg",
-    "img/portfolio/fall2016/carving/carving-4.jpg",
-    "img/portfolio/fall2016/carving/carving-5.jpg"
+    "img/portfolio/summer2017/whb/preview.jpg",
+    "img/portfolio/summer2017/whb/WMON.gif",
+    "img/portfolio/summer2017/whb/storyboard.jpg",
+    "img/portfolio/summer2017/whb/BUMP-flag.gif"
+  ],
+  "youtubeVideo": "https://www.youtube.com/embed/LeMBbVGWuNM"
+}, {
+  "name": "Daily Graphics",
+  "description": "Summer 2017",
+  "imgs": [
+    "img/portfolio/summer2017/dailygraphics/preview.jpg",
+    "img/portfolio/summer2017/dailygraphics/dailygraphics.png"
+  ]
+}, {
+  "name": "Boonder",
+  "description": "RISD, Spring 2017",
+  "imgs": [
+    "img/portfolio/spring2017/boonder/boonder-preview.png",
+    "img/portfolio/spring2017/boonder/title.png",
+    "img/portfolio/spring2017/boonder/research.png",
+    "img/portfolio/spring2017/boonder/sketches-1.png",
+    "img/portfolio/spring2017/boonder/sketches-2.png",
+    "img/portfolio/spring2017/boonder/models.png",
+    "img/portfolio/spring2017/boonder/final-1.jpg",
+    "img/portfolio/spring2017/boonder/final-2.png"
+  ]
+}, {
+  "name": "Wave Tables",
+  "description": "RISD, Spring 2017\nCardboard\nThe design challenge is to create two pieces of furniture that relate to each other by form within 7' board feet solid wood per item. My partner and I decided to experiement with the idea of intersecting curves with rigid geometry.",
+  "imgs": [
+    "img/portfolio/spring2017/table/table-preview.png",
+    "img/portfolio/spring2017/table/table1-1.jpg",
+    "img/portfolio/spring2017/table/table1-2.jpg",
+    "img/portfolio/spring2017/table/table1-3.jpg",
+    "img/portfolio/spring2017/table/table2-1.jpg",
+    "img/portfolio/spring2017/table/table2-2.jpg",
+    "img/portfolio/spring2017/table/sketches.png",
+    "img/portfolio/spring2017/table/process.png",
+    "img/portfolio/spring2017/table/table_both.png"
+  ]
+}, {
+  "name": "Cardboard Chair",
+  "description": "RISD, Spring 2017\nCardboard\nIn teams of two, we were challenged to design a cardboard chair for children within two 40'' x 80'' sheets of cardboard. My partner and I decided to make a playful rocking chair with the added functionailty of being a side table with a drawer when the chair is turned over. We also wanted to use the sheets as effectively as possible while being conscious of the ergonomics of children derived from Dreyfus charts.",
+  "imgs": [
+    "img/portfolio/spring2017/cardboardchair/cardboardchair-preview.png",
+    "img/portfolio/spring2017/cardboardchair/cardboardchair-1.png",
+    "img/portfolio/spring2017/cardboardchair/cardboardchair-2.png",
+    "img/portfolio/spring2017/cardboardchair/template.png",
+    "img/portfolio/spring2017/cardboardchair/process.png"
+  ]
+}, {
+  "name": "Explorations in Machining",
+  "description": "RISD, Winter 2016\n14 Steel, Aluminium, Wood\n\n",
+  "imgs": [
+    "img/portfolio/winter2016/metals2/preview.jpg",
+    "img/portfolio/winter2016/metals2/yoyo.jpg",
+    "img/portfolio/winter2016/metals2/swap-1.jpg",
+    "img/portfolio/winter2016/metals2/swap-2.jpg",
+    "img/portfolio/winter2016/metals2/final.png"
   ]
 }, {
   "name": "Aluminium Twist",
-  "description": "RISD Fall 2016\n14 Gauge Aluminium Sheet Metal, Bungee Cord\n\n",
+  "description": "RISD, Fall 2016\n14 Gauge Aluminium Sheet Metal, Bungee Cord\n\n",
   "imgs": [
     "img/portfolio/fall2016/aluminium/aluminium-preview.jpg",
     "img/portfolio/fall2016/aluminium/aluminium-1.jpg",
     "img/portfolio/fall2016/aluminium/aluminium-2.jpg",
     "img/portfolio/fall2016/aluminium/aluminium-3.jpg"
   ]
-},  {
-  "name": "Maple Hammer",
-  "description": "RISD Fall 2016\nMaple\n\n",
-  "imgs": [
-    "img/portfolio/fall2016/turning/turning-preview.jpg",
-    "img/portfolio/fall2016/turning/turning-3.jpg",
-    "img/portfolio/fall2016/turning/turning-4.jpg"
-  ]
 }, {
-  "name": "Exploded View",
-  "description": "RISD Fall 2016\nIllustator\n\nAn exploded view of an UL fire alarm.",
-  "imgs": [
-    "img/portfolio/fall2016/explodedview/exploded-preview.jpg",
-    "img/portfolio/fall2016/explodedview/exploded-drawing.jpg",
-    "img/portfolio/fall2016/explodedview/exploded-model.jpg"
-  ]
-}, {
-  "name": "The Walnut Disc",
-  "description": "RISD Fall 2016\nWalnut\n\n",
+  "name": "Wood Explorations",
+  "description": "RISD, Fall 2016\nWood\n\n",
   "imgs": [
     "img/portfolio/fall2016/disc/disc-preview.jpg",
     "img/portfolio/fall2016/disc/disc-4.jpg",
-    "img/portfolio/fall2016/disc/disc-3.jpg"
+    "img/portfolio/fall2016/disc/disc-3.jpg",
+    "img/portfolio/fall2016/carving/carving-3.jpg",
+    "img/portfolio/fall2016/carving/carving-4.jpg",
+    "img/portfolio/fall2016/carving/carving-5.jpg",
+    "img/portfolio/fall2016/turning/turning-3.jpg",
+    "img/portfolio/fall2016/turning/turning-4.jpg"
   ]
-}, {
-  "name": "The Clean Toothbrush",
-  "description": "RISD Fall 2016\nAdobe Illustrator, Rhino, Foam\n\n",
+},/* {
+  "name": "Toothbrush Design",
+  "description": "RISD, Fall 2016\nIllustrator, Rhino, Foam\n\n",
   "imgs": [
     "img/portfolio/fall2016/toothbrush/toothbrush-preview.jpg",
     "img/portfolio/fall2016/toothbrush/toothbrush-function.jpg",
@@ -54,53 +98,24 @@ portfolioData = [{
     "img/portfolio/fall2016/toothbrush/toothbrush-rhino-1.jpg",
     "img/portfolio/fall2016/toothbrush/toothbrush-rhino-2.jpg"
   ]
-}, {
+},*/ {
   "name": "Tin Star",
-  "description": "RISD Fall 2016\nTin Sheet Metal\n\n",
+  "description": "RISD, Fall 2016\nTin Sheet Metal\n\n",
   "imgs": [
     "img/portfolio/fall2016/tinstar/tinstar-preview.jpg",
     "img/portfolio/fall2016/tinstar/tinstar-1.jpg",
     "img/portfolio/fall2016/tinstar/tinstar-2.jpg"
   ]
 }, {
-  "name": "Self Charicature",
-  "description": "RISD Fall 2016\nPhotoshop, Illustrator\n\n",
-  "imgs": [
-    "img/portfolio/fall2016/selfcharicature/selfcharicature-preview.jpg",
-    "img/portfolio/fall2016/selfcharicature/selfcharicature.jpg"
-  ]
-}, {
-  "name": "Form Exploration",
-  "description": "RISD Fall 2016\n2' tall paper\nSharpie and color pencil\n\n",
-  "imgs": [
-    "img/portfolio/fall2016/roll/roll-preview.jpg",
-    "img/portfolio/fall2016/roll/roll-1.jpg",
-    "img/portfolio/fall2016/roll/roll-2.jpg",
-    "img/portfolio/fall2016/roll/roll-3.jpg",
-    "img/portfolio/fall2016/roll/roll-4.jpg",
-    "img/portfolio/fall2016/roll/roll-5.jpg",
-    "img/portfolio/fall2016/roll/roll-6.jpg",
-    "img/portfolio/fall2016/roll/roll-7.jpg",
-    "img/portfolio/fall2016/roll/roll-8.jpg",
-    "img/portfolio/fall2016/roll/roll-9.jpg",
-    "img/portfolio/fall2016/roll/roll-10.jpg",
-    "img/portfolio/fall2016/roll/roll-11.jpg",
-    "img/portfolio/fall2016/roll/roll-12.jpg",
-    "img/portfolio/fall2016/roll/roll-13.jpg",
-    "img/portfolio/fall2016/roll/roll-14.jpg",
-    "img/portfolio/fall2016/roll/roll-15.jpg",
-    "img/portfolio/fall2016/roll/roll-16.jpg",
-  ]
-}, {
   "name": "You're Toast",
-  "description": "RISD Winter 2015\nIllustator, After Effects\n\nFor the final of my intro to computer animation, I wanted to develop my skills using After Effects. I ended up making a short animation that relies heavily on character rigs and is about the life of a piece of bread with a touch of dark humor. The video is about how the bread lives its life only to realize its meaningless.",
+  "description": "RISD, Winter 2015\nIllustator, After Effects\n\nFor the final of my intro to computer animation, I wanted to develop my skills using After Effects. I ended up making a short animation that relies heavily on character rigs and is about the life of a piece of bread with a touch of dark humor. The video is about how the bread lives its life only to realize its meaningless.",
   "imgs": [
     "img/portfolio/winter2015/toastfinal/toastfinal.jpg"
   ],
   "youtubeVideo": "https://www.youtube.com/embed/WL5I7Pv3OwU"
 }, {
   "name": "A Toasty Character",
-  "description": "RISD Winter 2015\nIllustator, Photoshop, After Effects\n\nOne project of my intro to computer animation class was to create a character rig and animate it. I created a sentient piece of buttered toast with a face, various replacement parts (different forms for the eyes and mouth), arms, and legs using Adobe Illustrator. Then I used After Effects to connect all the parts of character and allowed it to have smooth animation in 24 fps. I made a short gif  that shows the toast dancing by importing an image sequence in Photoshop. Below is the original rig layout in Illustrator. The red points represent pivot points.",
+  "description": "RISD, Winter 2015\nIllustator, Photoshop, After Effects\n\nOne project of my intro to computer animation class was to create a character rig and animate it. I created a sentient piece of buttered toast with a face, various replacement parts (different forms for the eyes and mouth), arms, and legs using Adobe Illustrator. Then I used After Effects to connect all the parts of character and allowed it to have smooth animation in 24 fps. I made a short gif  that shows the toast dancing by importing an image sequence in Photoshop. Below is the original rig layout in Illustrator. The red points represent pivot points.",
   "imgs": [
     "img/portfolio/winter2015/dancingtoast/dancingtoast-preview.jpg",
     "img/portfolio/winter2015/dancingtoast/dancingtoast-1.gif",
@@ -108,37 +123,29 @@ portfolioData = [{
   ]
 }, {
   "name": "The Stool That Rocks",
-  "description": "RISD Fall 2015\n24'' x 24'' x 18''\n2 x 1 pine select\nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes that habit. Hence, I made a chair that rocks on two axes. Throughout the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
+  "description": "RISD, Fall 2015\n24'' x 24'' x 18''\n2 x 1 pine select\nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes that habit. Hence, I made a chair that rocks on two axes. Throughout the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
   "imgs": [
     "img/portfolio/fall2015/rockingstool/rockingstool-preview.jpg",
     "img/portfolio/fall2015/rockingstool/rockingstool.jpg"
   ]
 }, {
   "name": "The Philtrum",
-  "description": "RISD Fall 2015\nOil on canvas\n60'' x 100''\nThis drawing is based off negative space. I wanted to develop on the hackneyed idea of how things in daily life are often overlooked. I chose to draw the philtrum (the obscure indent between the nose and lip) in a manner that makes it appear as an important symbol, although the reference to the philtrum is actually quite silly.",
+  "description": "RISD, Fall 2015\nOil on canvas\n60'' x 100''\nThis drawing is based off negative space. I wanted to develop on the hackneyed idea of how things in daily life are often overlooked. I chose to draw the philtrum (the obscure indent between the nose and lip) in a manner that makes it appear as an important symbol, although the reference to the philtrum is actually quite silly.",
   "imgs": [
     "img/portfolio/fall2015/negativespace/negativespace-preview.jpg",
     "img/portfolio/fall2015/negativespace/negativespace.jpg"
   ]
 }, {
   "name": "Cupped Fish",
-  "description": "RISD Fall 2015\nRed Solo Cups and steel wire\nAbout 3' long\nMy spatial dynamics class was assigned the “multiples project,” in which we had to choose a cheap store bought item and turn it into something recognizable. I chose to used red solo cups to create a fish.",
+  "description": "RISD, Fall 2015\nRed Solo Cups and steel wire\nAbout 3' long\nMy spatial dynamics class was assigned the “multiples project,” in which we had to choose a cheap store bought item and turn it into something recognizable. I chose to used red solo cups to create a fish.",
   "imgs": [
     "img/portfolio/fall2015/fish/fish-preview.jpg",
     "img/portfolio/fall2015/fish/fish3.jpg",
     "img/portfolio/fall2015/fish/fish4.jpg"
   ]
 }, {
-  "name": "How To Draw",
-  "description": "RISD Fall 2015\nVideo made with Premiere Pro\nDr. Pepper, charcoal powder, and ink on fabric\n74'' x 120''\nMy drawing class was assigned to create a process piece. I found this to be the perfect opportunity to parody the Youtube entity, HowToBasic, and poke fun at the price of creating art. Hence I created the absurd video below and at some point used fake $100 bills.",
-  "imgs": [
-    "img/portfolio/fall2015/process/process-preview.jpg",
-    "img/portfolio/fall2015/process/process.jpg"
-  ],
-  "youtubeVideo": "https://www.youtube.com/embed/eotoTmIdU_I"
-}, {
   "name": "Sketch of a Shoe",
-  "description": "RISD FAll 2015\nSteel wire\n2.5' long and 1.5' tall",
+  "description": "RISD, Fall 2015\nSteel wire\n2.5' long and 1.5' tall",
   "imgs": [
     "img/portfolio/fall2015/shoe/shoe-preview1.jpg",
     "img/portfolio/fall2015/shoe/shoe4.jpg",
@@ -147,14 +154,14 @@ portfolioData = [{
   ]
 }, {
   "name": "Skeletons",
-  "description": "RISD Fall 2015\nConte on paper\n50'' x 34''",
+  "description": "RISD, Fall 2015\nConte on paper\n50'' x 34''",
   "imgs": [
     "img/portfolio/fall2015/skeleton/skeleton-preview.jpg",
     "img/portfolio/fall2015/skeleton/skeleton.jpg"
   ]
 }, {
   "name": "Pixelated Spider",
-  "description": "RISD Fall 2015\nCharcoal, conte, and graphite on paper\n44'' x 32''",
+  "description": "RISD, Fall 2015\nCharcoal, conte, and graphite on paper\n44'' x 32''",
   "imgs": [
     "img/portfolio/fall2015/pixel/pixel-preview.jpg",
     "img/portfolio/fall2015/pixel/pixel.jpg"

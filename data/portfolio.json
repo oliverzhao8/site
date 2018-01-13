@@ -1,4 +1,25 @@
 portfolioData = [{
+  "name": "Adobe Acrobat - Gesture Redesign",
+  "description": "FAll 2017\nIllustrator, After Effects",
+  "imgs": [
+    "img/portfolio/fall2017/acrobat/preview.jpg",
+    "img/portfolio/fall2017/acrobat/intro.png",
+    "img/portfolio/fall2017/acrobat/mapping.png"
+  ],
+  "youtubeVideo": "https://www.youtube.com/embed/9ck_FFf-vJ4"
+},{
+  "name": "Wildfire - Startup App Design",
+  "description": "FAll 2017\nIllustrator, Adobe XD, Figma\nTry the demo here: https://xd.adobe.com/view/4afdddac-8225-45cb-9958-b31f4f511e18/",
+  "imgs": [
+    "img/portfolio/fall2017/wildfire/preview.jpg",
+    "img/portfolio/fall2017/wildfire/intro.png",
+    "img/portfolio/fall2017/wildfire/first-use.png",
+    "img/portfolio/fall2017/wildfire/features.png",
+    "img/portfolio/fall2017/wildfire/process.png",
+    "img/portfolio/fall2017/wildfire/takeaways.png",
+    "img/portfolio/fall2017/wildfire/outro.png"
+  ]
+},{
   "name": "White House Breifing Package",
   "description": "Summer 2017\nMaya, After Effects\nThe final project I was assigned for my summer internship was to create a show package for the network's coverage on White House press briefings. I created a three second transition animation along with a ten second looping background image.",
   "imgs": [
@@ -10,7 +31,7 @@ portfolioData = [{
   "youtubeVideo": "https://www.youtube.com/embed/LeMBbVGWuNM"
 }, {
   "name": "Daily Graphics",
-  "description": "Summer 2017",
+  "description": "Summer 2017\nPhotoshop, Illustrator\nDuring my summer internship, I was tasked to design a graphic every morning within two hours to depict daily events.",
   "imgs": [
     "img/portfolio/summer2017/dailygraphics/preview.jpg",
     "img/portfolio/summer2017/dailygraphics/dailygraphics.png"
@@ -29,8 +50,8 @@ portfolioData = [{
     "img/portfolio/spring2017/boonder/final-2.png"
   ]
 }, {
-  "name": "Wave Tables",
-  "description": "RISD, Spring 2017\nCardboard\nThe design challenge is to create two pieces of furniture that relate to each other by form within 7' board feet solid wood per item. My partner and I decided to experiement with the idea of intersecting curves with rigid geometry.",
+  "name": "Cantilever Coffee Tables",
+  "description": "RISD, Spring 2017\nCardboard\nThe design challenge is to create two pieces of furniture that relate to each other by form within 7' board feet solid wood per item. With my partner, I decided to experiement with the idea of intersecting curves with rigid geometry.",
   "imgs": [
     "img/portfolio/spring2017/table/table-preview.png",
     "img/portfolio/spring2017/table/table1-1.jpg",
@@ -71,7 +92,7 @@ portfolioData = [{
     "img/portfolio/fall2016/aluminium/aluminium-2.jpg",
     "img/portfolio/fall2016/aluminium/aluminium-3.jpg"
   ]
-}, {
+},/* {
   "name": "Wood Explorations",
   "description": "RISD, Fall 2016\nWood\n\n",
   "imgs": [
@@ -84,7 +105,7 @@ portfolioData = [{
     "img/portfolio/fall2016/turning/turning-3.jpg",
     "img/portfolio/fall2016/turning/turning-4.jpg"
   ]
-},/* {
+},*/ {
   "name": "Toothbrush Design",
   "description": "RISD, Fall 2016\nIllustrator, Rhino, Foam\n\n",
   "imgs": [
@@ -98,7 +119,7 @@ portfolioData = [{
     "img/portfolio/fall2016/toothbrush/toothbrush-rhino-1.jpg",
     "img/portfolio/fall2016/toothbrush/toothbrush-rhino-2.jpg"
   ]
-},*/ {
+}, {
   "name": "Tin Star",
   "description": "RISD, Fall 2016\nTin Sheet Metal\n\n",
   "imgs": [
@@ -122,13 +143,20 @@ portfolioData = [{
     "img/portfolio/winter2015/dancingtoast/dancingtoast-rig.jpg"
   ]
 }, {
+  "name": "Headphones Design",
+  "description": "RISD, Fall 2016\nRhino, Neon, Brazil",
+  "imgs": [
+    "img/portfolio/fall2016/headphones/headphones-preview.jpg",
+    "img/portfolio/fall2016/headphones/headphones-3.jpg"
+  ]
+},{
   "name": "The Stool That Rocks",
   "description": "RISD, Fall 2015\n24'' x 24'' x 18''\n2 x 1 pine select\nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes that habit. Hence, I made a chair that rocks on two axes. Throughout the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
   "imgs": [
     "img/portfolio/fall2015/rockingstool/rockingstool-preview.jpg",
     "img/portfolio/fall2015/rockingstool/rockingstool.jpg"
   ]
-}, {
+},/* {
   "name": "The Philtrum",
   "description": "RISD, Fall 2015\nOil on canvas\n60'' x 100''\nThis drawing is based off negative space. I wanted to develop on the hackneyed idea of how things in daily life are often overlooked. I chose to draw the philtrum (the obscure indent between the nose and lip) in a manner that makes it appear as an important symbol, although the reference to the philtrum is actually quite silly.",
   "imgs": [
@@ -173,7 +201,7 @@ portfolioData = [{
     "img/portfolio/highschool/selfportrait/selfportrait-preview.jpg",
     "img/portfolio/highschool/selfportrait/selfportrait.jpg"
   ]
-}, {
+},*/ {
   "name": "Jazz Concert - Poster",
   "description": "2014\nIllustrator\n\nA Poster to represent one of highschool's jazz concerts.",
   "imgs": [
@@ -194,7 +222,7 @@ portfolioData = [{
     "img/portfolio/highschool/intheheights/intheheights-preview.jpg",
     "img/portfolio/highschool/intheheights/intheheights.jpg"
   ]
-}, {
+},/* {
   "name": "Sandwich",
   "description": "2014\nOil and gold foil on canvas\n30'' x 30''",
   "imgs": [
@@ -251,5 +279,5 @@ portfolioData = [{
     "img/portfolio/highschool/venus/venus-preview.jpg",
     "img/portfolio/highschool/venus/venus.jpg"
   ]
-}]
+}*/]
 

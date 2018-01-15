@@ -1,6 +1,13 @@
 portfolioData = [{
-  "name": "Adobe Acrobat - Gesture Redesign",
-  "description": "FAll 2017\nIllustrator, After Effects",
+  "name": "Wood Wear - Caps",
+  "description": "Fall 2017\nSewing, Wood",
+  "imgs": [
+    "img/portfolio/fall2017/wood-hat/preview.jpg",
+    "img/portfolio/fall2017/wood-hat/wood-hats.png"
+  ]
+},{
+  "name": "Adobe Acrobat - App Gesture Redesign",
+  "description": "Fall 2017\nIllustrator, After Effects",
   "imgs": [
     "img/portfolio/fall2017/acrobat/preview.jpg",
     "img/portfolio/fall2017/acrobat/intro.png",
@@ -9,7 +16,7 @@ portfolioData = [{
   "youtubeVideo": "https://www.youtube.com/embed/9ck_FFf-vJ4"
 },{
   "name": "Wildfire - Startup App Design",
-  "description": "FAll 2017\nIllustrator, Adobe XD, Figma\nTry the demo here: https://xd.adobe.com/view/4afdddac-8225-45cb-9958-b31f4f511e18/",
+  "description": "Fall 2017\nIllustrator, Adobe XD, Figma\nTry the demo here: https://xd.adobe.com/view/4afdddac-8225-45cb-9958-b31f4f511e18/",
   "imgs": [
     "img/portfolio/fall2017/wildfire/preview.jpg",
     "img/portfolio/fall2017/wildfire/intro.png",
@@ -30,7 +37,7 @@ portfolioData = [{
   ],
   "youtubeVideo": "https://www.youtube.com/embed/LeMBbVGWuNM"
 }, {
-  "name": "Daily Graphics",
+  "name": "2017 Summer Daily Graphics",
   "description": "Summer 2017\nPhotoshop, Illustrator\nDuring my summer internship, I was tasked to design a graphic every morning within two hours to depict daily events.",
   "imgs": [
     "img/portfolio/summer2017/dailygraphics/preview.jpg",
@@ -83,7 +90,7 @@ portfolioData = [{
     "img/portfolio/winter2016/metals2/swap-2.jpg",
     "img/portfolio/winter2016/metals2/final.png"
   ]
-}, {
+},/* {
   "name": "Aluminium Twist",
   "description": "RISD, Fall 2016\n14 Gauge Aluminium Sheet Metal, Bungee Cord\n\n",
   "imgs": [
@@ -92,7 +99,15 @@ portfolioData = [{
     "img/portfolio/fall2016/aluminium/aluminium-2.jpg",
     "img/portfolio/fall2016/aluminium/aluminium-3.jpg"
   ]
-},/* {
+}, {
+  "name": "Tin Star",
+  "description": "RISD, Fall 2016\nTin Sheet Metal\n\n",
+  "imgs": [
+    "img/portfolio/fall2016/tinstar/tinstar-preview.jpg",
+    "img/portfolio/fall2016/tinstar/tinstar-1.jpg",
+    "img/portfolio/fall2016/tinstar/tinstar-2.jpg"
+  ]
+}, {
   "name": "Wood Explorations",
   "description": "RISD, Fall 2016\nWood\n\n",
   "imgs": [
@@ -106,6 +121,13 @@ portfolioData = [{
     "img/portfolio/fall2016/turning/turning-4.jpg"
   ]
 },*/ {
+  "name": "Headphones Design",
+  "description": "RISD, Fall 2016\nRhino, Neon, Brazil",
+  "imgs": [
+    "img/portfolio/fall2016/headphones/headphones-preview.jpg",
+    "img/portfolio/fall2016/headphones/headphones-3.jpg"
+  ]
+},  {
   "name": "Toothbrush Design",
   "description": "RISD, Fall 2016\nIllustrator, Rhino, Foam\n\n",
   "imgs": [
@@ -120,15 +142,7 @@ portfolioData = [{
     "img/portfolio/fall2016/toothbrush/toothbrush-rhino-2.jpg"
   ]
 }, {
-  "name": "Tin Star",
-  "description": "RISD, Fall 2016\nTin Sheet Metal\n\n",
-  "imgs": [
-    "img/portfolio/fall2016/tinstar/tinstar-preview.jpg",
-    "img/portfolio/fall2016/tinstar/tinstar-1.jpg",
-    "img/portfolio/fall2016/tinstar/tinstar-2.jpg"
-  ]
-}, {
-  "name": "You're Toast",
+  "name": "You're Toast - Animation",
   "description": "RISD, Winter 2015\nIllustator, After Effects\n\nFor the final of my intro to computer animation, I wanted to develop my skills using After Effects. I ended up making a short animation that relies heavily on character rigs and is about the life of a piece of bread with a touch of dark humor. The video is about how the bread lives its life only to realize its meaningless.",
   "imgs": [
     "img/portfolio/winter2015/toastfinal/toastfinal.jpg"
@@ -143,13 +157,6 @@ portfolioData = [{
     "img/portfolio/winter2015/dancingtoast/dancingtoast-rig.jpg"
   ]
 }, {
-  "name": "Headphones Design",
-  "description": "RISD, Fall 2016\nRhino, Neon, Brazil",
-  "imgs": [
-    "img/portfolio/fall2016/headphones/headphones-preview.jpg",
-    "img/portfolio/fall2016/headphones/headphones-3.jpg"
-  ]
-},{
   "name": "The Stool That Rocks",
   "description": "RISD, Fall 2015\n24'' x 24'' x 18''\n2 x 1 pine select\nFor my spacial dynamics’ final, my class was assigned to build a chair mainly constructed by 1 by 2 pine selects. Because some people, including myself, have the habit to rock on uneven stools, I made a chair that emphasizes that habit. Hence, I made a chair that rocks on two axes. Throughout the process, I learned a lot about woodworking such as making complex joints and creating robust structures.",
   "imgs": [

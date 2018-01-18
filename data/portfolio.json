@@ -5,7 +5,7 @@ portfolioData = [{
     "img/portfolio/fall2017/wood-hat/preview.jpg",
     "img/portfolio/fall2017/wood-hat/wood-hats.png"
   ]
-},{
+}, {
   "name": "Adobe Acrobat - App Gesture Redesign",
   "description": "Fall 2017\nIllustrator, After Effects",
   "imgs": [
@@ -14,7 +14,7 @@ portfolioData = [{
     "img/portfolio/fall2017/acrobat/mapping.png"
   ],
   "youtubeVideo": "https://www.youtube.com/embed/9ck_FFf-vJ4"
-},{
+}, {
   "name": "Wildfire - Startup App Design",
   "description": "Fall 2017\nIllustrator, Adobe XD, Figma\nTry the demo here: https://xd.adobe.com/view/4afdddac-8225-45cb-9958-b31f4f511e18/",
   "imgs": [
@@ -26,7 +26,14 @@ portfolioData = [{
     "img/portfolio/fall2017/wildfire/takeaways.png",
     "img/portfolio/fall2017/wildfire/outro.png"
   ]
-},{
+}, {
+  "name": "RISD E'Ship Website",
+  "description": "Fall 2017\nSquareSpace, CSS",
+  "imgs": [
+    "img/portfolio/fall2017/eship_ws/preview.jpg",
+    "img/portfolio/fall2017/eship_ws/present.gif"
+  ]
+}, {
   "name": "White House Breifing Package",
   "description": "Summer 2017\nMaya, After Effects\nThe final project I was assigned for my summer internship was to create a show package for the network's coverage on White House press briefings. I created a three second transition animation along with a ten second looping background image.",
   "imgs": [

@@ -28,7 +28,7 @@ portfolioData = [{
   ]
 }, {
   "name": "RISD E'Ship Website",
-  "description": "Fall 2017\nSquareSpace, CSS",
+  "description": "Fall 2017\nSquareSpace, CSS\nAs a member of RISD's Entrepreneurship Club, part of my responsibilities include maintaining the club's website. Using Squarespace and its custom CSS capabilities, I developed the website for responsiveness and to match the graphics designed by Advait Kalakkad, another E'Ship Member.",
   "imgs": [
     "img/portfolio/fall2017/eship_ws/preview.jpg",
     "img/portfolio/fall2017/eship_ws/present.gif"

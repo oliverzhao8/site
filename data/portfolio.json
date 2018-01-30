@@ -1,19 +1,22 @@
 portfolioData = [{
+  "name": "Flipboard - UI/UX Redesign",
+  "description": "Winter 2018\nA side project done for a KPCB design challenge.",
+  "imgs": [
+    "img/portfolio/winter2018/flipboard/preview.jpg",
+    "img/portfolio/winter2018/flipboard/01.jpg",
+    "img/portfolio/winter2018/flipboard/02.jpg",
+    "img/portfolio/winter2018/flipboard/03.jpg",
+    "img/portfolio/winter2018/flipboard/04.jpg",
+    "img/portfolio/winter2018/flipboard/05.jpg",
+    "img/portfolio/winter2018/flipboard/06.jpg"
+  ]
+}, {
   "name": "Wood Wear - Caps",
   "description": "Fall 2017\nSewing, Wood",
   "imgs": [
     "img/portfolio/fall2017/wood-hat/preview.jpg",
     "img/portfolio/fall2017/wood-hat/wood-hats.png"
   ]
-}, {
-  "name": "Adobe Acrobat - App Gesture Redesign",
-  "description": "Fall 2017\nIllustrator, After Effects",
-  "imgs": [
-    "img/portfolio/fall2017/acrobat/preview.jpg",
-    "img/portfolio/fall2017/acrobat/intro.png",
-    "img/portfolio/fall2017/acrobat/mapping.png"
-  ],
-  "youtubeVideo": "https://www.youtube.com/embed/9ck_FFf-vJ4"
 }, {
   "name": "Wildfire - Startup App Design",
   "description": "Fall 2017\nIllustrator, Adobe XD, Figma\nTry the demo here: https://xd.adobe.com/view/4afdddac-8225-45cb-9958-b31f4f511e18/",
@@ -44,13 +47,6 @@ portfolioData = [{
   ],
   "youtubeVideo": "https://www.youtube.com/embed/LeMBbVGWuNM"
 }, {
-  "name": "2017 Summer Daily Graphics",
-  "description": "Summer 2017\nPhotoshop, Illustrator\nDuring my summer internship, I was tasked to design a graphic every morning within two hours to depict daily events.",
-  "imgs": [
-    "img/portfolio/summer2017/dailygraphics/preview.jpg",
-    "img/portfolio/summer2017/dailygraphics/dailygraphics.png"
-  ]
-}, {
   "name": "Boonder",
   "description": "RISD, Spring 2017",
   "imgs": [
@@ -62,6 +58,22 @@ portfolioData = [{
     "img/portfolio/spring2017/boonder/models.png",
     "img/portfolio/spring2017/boonder/final-1.jpg",
     "img/portfolio/spring2017/boonder/final-2.png"
+  ]
+}, {
+  "name": "Adobe Acrobat - App Gesture Redesign",
+  "description": "Fall 2017\nIllustrator, After Effects",
+  "imgs": [
+    "img/portfolio/fall2017/acrobat/preview.jpg",
+    "img/portfolio/fall2017/acrobat/intro.png",
+    "img/portfolio/fall2017/acrobat/mapping.png"
+  ],
+  "youtubeVideo": "https://www.youtube.com/embed/9ck_FFf-vJ4"
+}, {
+  "name": "2017 Summer Daily Graphics",
+  "description": "Summer 2017\nPhotoshop, Illustrator\nDuring my summer internship, I was tasked to design a graphic every morning within two hours to depict daily events.",
+  "imgs": [
+    "img/portfolio/summer2017/dailygraphics/preview.jpg",
+    "img/portfolio/summer2017/dailygraphics/dailygraphics.png"
   ]
 }, {
   "name": "Cantilever Coffee Tables",

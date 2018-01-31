@@ -30,11 +30,14 @@ portfolioData = [{
     "img/portfolio/fall2017/wildfire/outro.png"
   ]
 }, {
-  "name": "RISD E'Ship Website",
-  "description": "Fall 2017\nSquareSpace, CSS\nAs a member of RISD's Entrepreneurship Club, part of my responsibilities include maintaining the club's website. Using Squarespace and its custom CSS capabilities, I developed the website for responsiveness and to match the graphics designed by Advait Kalakkad, another E'Ship Member.",
+  "name": "The Scriffer - Reimagined Swiffer",
+  "description": "Fall 2017\nSewing, Wood",
   "imgs": [
-    "img/portfolio/fall2017/eship_ws/preview.jpg",
-    "img/portfolio/fall2017/eship_ws/present.gif"
+    "img/portfolio/fall2017/scriffer/preview.jpg",
+    "img/portfolio/fall2017/scriffer/1.png",
+    "img/portfolio/fall2017/scriffer/2.png",
+    "img/portfolio/fall2017/scriffer/3.png",
+    "img/portfolio/fall2017/scriffer/4.png"
   ]
 }, {
   "name": "White House Breifing Package",
@@ -68,14 +71,21 @@ portfolioData = [{
     "img/portfolio/fall2017/acrobat/mapping.png"
   ],
   "youtubeVideo": "https://www.youtube.com/embed/9ck_FFf-vJ4"
-}, {
+},  {
+  "name": "RISD E'Ship Website",
+  "description": "Fall 2017\nSquareSpace, CSS\nAs a member of RISD's Entrepreneurship Club, part of my responsibilities include maintaining the club's website. Using Squarespace and its custom CSS capabilities, I developed the website for responsiveness and to match the graphics designed by Advait Kalakkad, another E'Ship Member. Check it out ar risdeship.com!",
+  "imgs": [
+    "img/portfolio/fall2017/eship_ws/preview.jpg",
+    "img/portfolio/fall2017/eship_ws/present.gif"
+  ]
+}, /* {
   "name": "2017 Summer Daily Graphics",
   "description": "Summer 2017\nPhotoshop, Illustrator\nDuring my summer internship, I was tasked to design a graphic every morning within two hours to depict daily events.",
   "imgs": [
     "img/portfolio/summer2017/dailygraphics/preview.jpg",
     "img/portfolio/summer2017/dailygraphics/dailygraphics.png"
   ]
-}, {
+},*/ {
   "name": "Cantilever Coffee Tables",
   "description": "RISD, Spring 2017\nCardboard\nThe design challenge is to create two pieces of furniture that relate to each other by form within 7' board feet solid wood per item. With my partner, I decided to experiement with the idea of intersecting curves with rigid geometry.",
   "imgs": [
